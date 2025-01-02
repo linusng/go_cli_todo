@@ -1,10 +1,6 @@
 [
   {
-    "Description": "test",
-    "Completed": false
-  },
-  {
-    "Description": "test again",
+    "Description": "task",
     "Completed": false
   }
 ]
