@@ -52,5 +52,12 @@ func main() {
       }
       fmt.Printf("%d. %s %s\n", i+1, status, task.Description)
     }
+  case "help":
+    fmt.Println(`Usage:
+    'todo add [task]' - Add new task
+    'todo list' - Lists all tasks
+    `)
+  default:
+    fmt.Println("Unknown command. Use 'todo help' for a list of commands.")
   }
 }
