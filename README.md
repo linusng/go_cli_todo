@@ -6,7 +6,7 @@ A command-line tool for managing a simple to-do list. Users can add, remove, lis
 ## "Why?" (Motivation/Goal/Problem to solve)
 To simplify and organize daily tasks directly from the terminal! 
 
-<!-- ## Quick Start -->
+## Quick Start
 
 ## Usage
 1. Add a Task
@@ -29,4 +29,4 @@ To simplify and organize daily tasks directly from the terminal!
   - Displays all available commands and usage instructions.
 
 
-<!-- ## Contributing -->
+## Contributing
